@@ -29,6 +29,7 @@ Sueño con convertirme en un programador profesional, trabajar en empresas tecno
 ## 🌱 En constante aprendizaje
 El camino de la tecnología es infinito, y cada día busco mejorar mis habilidades y descubrir algo nuevo. Estoy en una fase de disciplina y constancia, trabajando en mis hábitos de estudio y aprovechando cada recurso que tengo a mi disposición. Aunque mis recursos son limitados, mi motivación y perseverancia son mis mayores fortalezas.
 
-# mi frase preferido #
-* si puedes pensarlo puedes crearlo
+# mi frases  #
+* Si puedes pensarlo puedes crearlo
+* El único modo de hacer un gran trabajo es amar lo que hacés
 
