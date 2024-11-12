@@ -22,3 +22,11 @@ Sueño con convertirme en un programador profesional, trabajar en empresas tecno
 ## 🌱 En constante aprendizaje
 El camino de la tecnología es infinito, y cada día busco mejorar mis habilidades y descubrir algo nuevo. Estoy en una fase de disciplina y constancia, trabajando en mis hábitos de estudio y aprovechando cada recurso que tengo a mi disposición. Aunque mis recursos son limitados, mi motivación y perseverancia son mis mayores fortalezas.
 
+# mi frase preferido #
+* si puedes pensarlo puedes crearlo
+
+### Habilidades
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) 
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
