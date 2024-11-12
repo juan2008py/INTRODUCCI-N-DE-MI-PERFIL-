@@ -2,6 +2,13 @@
 
 # Acerca de Mí
 
+### Habilidades
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) 
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+  # solo lo básico pero voy aprendiendo con el tiempo #
+
 ## 📌 Presentación
 Soy Juan, un joven apasionado por la tecnología y la programación, que se encuentra en una constante búsqueda de mejorar sus habilidades y conocimientos. Actualmente, estoy en mi segundo año de secundaria y llevo varios meses explorando el mundo del desarrollo web, enfocado en HTML, CSS y JavaScript. Mi curiosidad por la tecnología comenzó desde pequeño y ha crecido con el tiempo, llevándome a interesarme cada vez más en cómo funcionan las herramientas que usamos día a día.
 
@@ -24,9 +31,4 @@ El camino de la tecnología es infinito, y cada día busco mejorar mis habilidad
 
 # mi frase preferido #
 * si puedes pensarlo puedes crearlo
-
-### Habilidades
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) 
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
